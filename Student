@@ -1,3 +1,5 @@
 // Student Object
 // This class extends the Membership Object
 
+final float fee = 7.99;
+
